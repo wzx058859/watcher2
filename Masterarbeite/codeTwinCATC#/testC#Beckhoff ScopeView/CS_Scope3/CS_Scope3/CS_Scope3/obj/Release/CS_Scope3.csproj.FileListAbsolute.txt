@@ -1,0 +1,75 @@
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe.config
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.SystemService.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Utilities.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Core.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.BaseUI.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.xml
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csprojResolveAssemblyReference.cache
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.DataGridForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Form1.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Properties.Resources.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.PropertyForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.TreeViewForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csproj.GenerateResource.Cache
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\C#集成Beckhoff Twincat3 ScopeView介绍-20200620\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe.config
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.SystemService.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Utilities.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Core.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.BaseUI.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.xml
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csprojResolveAssemblyReference.cache
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.DataGridForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Form1.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Properties.Resources.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.PropertyForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.TreeViewForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csproj.GenerateResource.Cache
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe.config
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.SystemService.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Utilities.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Core.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.BaseUI.dll
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.xml
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csprojResolveAssemblyReference.cache
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.DataGridForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Form1.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Properties.Resources.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.PropertyForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.TreeViewForm.resources
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#集成Beckhoff ScopeView - 副本\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csproj.GenerateResource.Cache
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe.config
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\论文\基于TwinCAT和C#的代码\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe.config
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\CS_Scope3.pdb
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.dll
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.SystemService.dll
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Utilities.dll
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Core.dll
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.BaseUI.dll
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\bin\Release\TwinCAT.Ads.xml
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csprojResolveAssemblyReference.cache
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.DataGridForm.resources
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Form1.resources
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.Properties.Resources.resources
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.PropertyForm.resources
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.TreeViewForm.resources
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.csproj.GenerateResource.Cache
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.exe
+C:\Users\wzx05\Desktop\Masterarbeite\codeTwinCATC#\testC#Beckhoff ScopeView\CS_Scope3\CS_Scope3\CS_Scope3\obj\Release\CS_Scope3.pdb

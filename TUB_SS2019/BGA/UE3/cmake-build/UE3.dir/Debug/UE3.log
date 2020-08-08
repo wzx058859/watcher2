@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/Student_A/Desktop/UE3/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Student_A\Desktop\UE3\cmake-build\CMakeFiles\generate.stamp is up-to-date.
+  main.cpp
+  NOTE: Use of this header (bool_trait_def.hpp) is deprecated
+  NOTE: Use of this header (template_arity_spec.hpp) is deprecated
+  NOTE: Use of this header (template_arity_spec.hpp) is deprecated
+  UE3.vcxproj -> C:\Users\Student_A\Desktop\UE3\cmake-build\Debug\UE3.exe
+  UE3.vcxproj -> C:/Users/Student_A/Desktop/UE3/cmake-build/Debug/UE3.pdb (Full PDB)

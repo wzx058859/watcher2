@@ -273,7 +273,7 @@
             this.aquaGauge1.DialColor = System.Drawing.Color.Lavender;
             this.aquaGauge1.DialText = "";
             this.aquaGauge1.Glossiness = 11.36364F;
-            this.aquaGauge1.Location = new System.Drawing.Point(4, 335);
+            this.aquaGauge1.Location = new System.Drawing.Point(557, 335);
             this.aquaGauge1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.aquaGauge1.MaxValue = 50F;
             this.aquaGauge1.MinValue = 0F;
